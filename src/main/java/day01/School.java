@@ -7,6 +7,7 @@ public class School {
         student.addHeight(122);
         student.addHeight(129);
         student.addHeight(130);
+        student.addHeight(155);
 
         System.out.println(student.isHeightsIncreasing());
     }

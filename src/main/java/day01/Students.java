@@ -18,8 +18,4 @@ public class Students {
         }
         return true;
     }
-
-    public List<Integer> getHeights(){
-        return heights;
-    }
 }
